@@ -125,7 +125,7 @@ jupyter notebook pioneer_simulation.ipynb
 | Specification | Value |
 |---------------|-------|
 | Classification | K1120 (2800 N·s) |
-| Grain Type | BATES (6-grain) |
+| Grain Type | BATES (4-grain) |
 | Diameter | 76 mm |
 | Length | 631 mm |
 | Propellant Mass | 1.82 kg |
